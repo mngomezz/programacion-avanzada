@@ -1,0 +1,674 @@
+[
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 1
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 2
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 3
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 4
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 5
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 6
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            },
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 7
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            },
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 8
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            },
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 9
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 10
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 11
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "PANTANO",
+                "coronas": 0
+            },
+            {
+                "tipo": "PANTANO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 12
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 13
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 14
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 15
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "PANTANO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 16
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            },
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 17
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 18
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 1
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 19
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 1
+            },
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 20
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 1
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 21
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 1
+            },
+            {
+                "tipo": "PANTANO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 22
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 1
+            },
+            {
+                "tipo": "MINA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 23
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 1
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 24
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 1
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 25
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 1
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 26
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 1
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 27
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 1
+            },
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 28
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "BOSQUE",
+                "coronas": 1
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 1
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 29
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 1
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 30
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 1
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 31
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 1
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 32
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 1
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 33
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 1
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 34
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 1
+            },
+            {
+                "tipo": "BOSQUE",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 35
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 1
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 36
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 1
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 37
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "PANTANO",
+                "coronas": 1
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 38
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            },
+            {
+                "tipo": "PANTANO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 39
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "MINA",
+                "coronas": 1
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 40
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 2
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 41
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "AGUA",
+                "coronas": 0
+            },
+            {
+                "tipo": "LLANURA",
+                "coronas": 2
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 42
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "PANTANO",
+                "coronas": 2
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 43
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "LLANURA",
+                "coronas": 0
+            },
+            {
+                "tipo": "PANTANO",
+                "coronas": 2
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 44
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "MINA",
+                "coronas": 2
+            },
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 45
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "PANTANO",
+                "coronas": 0
+            },
+            {
+                "tipo": "MINA",
+                "coronas": 2
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 46
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "PANTANO",
+                "coronas": 0
+            },
+            {
+                "tipo": "MINA",
+                "coronas": 2
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 47
+    },
+    {
+        "terrenos": [
+            {
+                "tipo": "TRIGO",
+                "coronas": 0
+            },
+            {
+                "tipo": "MINA",
+                "coronas": 3
+            }
+        ],
+        "orientacion": "HORIZONTAL_DERECHA",
+        "numero": 48
+    }
+]

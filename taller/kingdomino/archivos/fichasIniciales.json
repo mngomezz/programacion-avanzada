@@ -1,0 +1,18 @@
+[
+    {
+      "numeroFichaInicial": 1,
+      "color": "ROJO"
+    },
+    {
+      "numeroFichaInicial": 2,
+      "color": "AMARILLO"
+    },
+    {
+      "numeroFichaInicial": 3,
+      "color": "AZUL"
+    },
+    {
+      "numeroFichaInicial": 4,
+      "color": "VERDE"
+    }
+  ]
